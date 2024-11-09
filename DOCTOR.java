@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author Graciela
  */
 public class MAIN {
     public static void main(String[] args) {
